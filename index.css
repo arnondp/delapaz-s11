@@ -14,3 +14,10 @@ body {
   	font-weight: bolder;
   	font-size: 4rem;
   }
+  .subtitle {
+  	font-weight: bold;
+  }
+
+  #projects {
+  	font-weight: bolder;  	
+  }
