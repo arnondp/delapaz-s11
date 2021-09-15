@@ -10,6 +10,10 @@ body {
   	font-family: 'Poppins', sans-serif;
   }
 
+  #tools img {
+    width: 80px;
+  }
+
   .name {
   	font-weight: bolder;
   	font-size: 4rem;
